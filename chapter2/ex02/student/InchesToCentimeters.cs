@@ -1,10 +1,16 @@
+
 using System;
 using static System.Console;
 using System.Globalization;
+
 class InchesToCentimeters
 {
-	static void Main()
-	{
-		// Write your code here
-	}
+    static void Main()
+    {
+        const double CENTIMETERS_PER_INCH = 2.54;
+        double inches = 3;
+        double centimeters = inches * CENTIMETERS_PER_INCH;
+
+        WriteLine(inches + " inches is " + centimeters + " centimeters");
+    }
 }
