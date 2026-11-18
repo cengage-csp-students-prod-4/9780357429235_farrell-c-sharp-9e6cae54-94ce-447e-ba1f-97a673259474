@@ -1,0 +1,36 @@
+
+Status: PASSED!
+Check: 1
+Test: Student accepted with GPA >= 3.0
+Reason: None
+Timestamp: 2026-11-18 00:11:10.435585
+
+Status: PASSED!
+Check: 2
+Test: Student accepted with GPA < 3.0
+Reason: None
+Timestamp: 2026-11-18 00:11:10.453160
+
+Status: PASSED!
+Check: 3
+Test: Student rejected with GPA >= 3.0
+Reason: None
+Timestamp: 2026-11-18 00:11:10.470757
+
+Status: PASSED!
+Check: 4
+Test: Student rejected with GPA < 3.0
+Reason: None
+Timestamp: 2026-11-18 00:11:10.488245
+
+Status: PASSED!
+Check: 5
+Test: Student accepted with GPA >= 3.0 and Test Score >= 60
+Reason: None
+Timestamp: 2026-11-18 00:11:10.506067
+
+Status: PASSED!
+Check: 6
+Test: Student rejected with GPA < 3.0 and Test Score < 80
+Reason: None
+Timestamp: 2026-11-18 00:11:10.524100
