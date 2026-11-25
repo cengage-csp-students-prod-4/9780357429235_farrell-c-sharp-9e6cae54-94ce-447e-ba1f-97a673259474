@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: Outputs how far score is from average case 1
+Reason: None
+Timestamp: 2026-11-25 00:15:59.491050
+
+Status: PASSED!
+Check: 2
+Test: Outputs how far score is from average case 2
+Reason: None
+Timestamp: 2026-11-25 00:15:59.511544
